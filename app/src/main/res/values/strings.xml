@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">SmartSpaceWebSocketDemo</string>
+    <string name="app_title">Mantra Smart Space - WebSocket Demo</string>
+    <string name="connect_to_iot">Connect to IoT</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="smart_devices">Smart Devices</string>
+    <string name="simulate_telemetry">🔄 Simulate IoT Telemetry (Fake Device Push)</string>
+    <string name="websocket_live_log">WebSocket Live Log</string>
+
+    <string name="status_connected">✅ Connected to Smart Home IoT</string>
+    <string name="status_disconnected">🔌 Disconnected</string>
+    <string name="status_initial_disconnected">🔴 Disconnected</string>
+    <string name="status_error">❌ Error: %1$s</string>
+
+    <string name="device_living_room_light">Living Room Light</string>
+    <string name="device_bedroom_fan">Bedroom Fan</string>
+
+    <string name="log_sent_command">📤 Sent command: %1$s</string>
+    <string name="log_telemetry_simulated">🔄 Simulated IoT telemetry sent</string>
+    <string name="log_message_received">📥 %1$s</string>
 </resources>
